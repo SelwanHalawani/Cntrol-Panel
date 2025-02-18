@@ -28,10 +28,4 @@ Open the index.html file in a web browser.
 
 Click on any directional button to trigger an alert showing the selected movement direction.
 
-## Future Enhancements
 
-Adding real-time movement control using keyboard keys.
-
-Implementing API integration to control external devices.
-
-Enhancing UI/UX with animations and better styling.
